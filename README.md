@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kathiyawadi6oru
 - 👀 I’m interested in android and python.
 - 🌱 I’m currently study in msc(ca&it).
-- 📫 Instagram :: @kathiyawadi_6oru
+<!---  - 📫 Instagram :: @kathiyawadi_6oru --->
 - 📫 Contact Number :: +91 96873 15300
 - 📫 Email :: mayankvachhani91@gmail.com
       
