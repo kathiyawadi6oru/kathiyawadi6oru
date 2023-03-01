@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kathiyawadi6oru
-- 📫 Contact Number :: +91 96873 15300
-- 📫 Email :: mayankvachhani91@gmail.com
+<!-- - 📫 Contact Number :: +91 96873 15300
+- 📫 Email :: mayankvachhani91@gmail.com -->
       
       
       
